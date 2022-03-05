@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Darshana-01
+- 👋 Hi, I’m @Darshana Patil
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning Backend Development
 - 💞️ I’m looking to collaborate on ...
